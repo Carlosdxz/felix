@@ -1,0 +1,41 @@
+STYLE.CSS
+ 
+body{
+    margin: 0;
+    padding: 0;
+}
+ 
+.card-main{
+    margin: 80px;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    padding-left: 340px;
+    padding-right: 340px;
+    border: 2px solid #000;
+}
+ 
+.organiza{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 50px;
+
+    border: 2px solid brown;
+
+    padding-top: 20px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 25px;
+
+}
+
+.organiza1{
+    display: flex;
+    flex-direction: row;
+}
+ 
+.btn-danger, .btn-warning{
+    margin-top: 30px;
+}
